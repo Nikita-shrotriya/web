@@ -1,0 +1,20 @@
+{
+    "Name": "Coco",
+    "Rating": "PG",
+    "Genre": [
+        "Adventure",
+        "Comedy",
+        "Music",
+        "Animation"
+    ],
+    "Language": "English",
+    "Director": [
+        "LeeUnkrich"
+    ],
+    "Producer": [
+        "Darla",
+        "K.",
+        "Anderson"
+    ],
+    "Runtime": 109
+}
